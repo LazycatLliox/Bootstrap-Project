@@ -35,6 +35,9 @@ ul {
 .logo a{
     color:#000;
 }
+.button-bar{
+    background-color: #000;
+}
 
 
 /* CSS */
@@ -49,7 +52,7 @@ a:hover {
 }
 .button-85 {
   
-    padding: 0.6em 2em;
+  padding: 0.6em 2em;
   border: none;
   outline: none;
   color: rgb(255, 255, 255);
@@ -90,6 +93,7 @@ a:hover {
   transition: opacity 0.3s ease-in-out;
   border-radius: 10px;
 }
+
 
 @keyframes glowing-button-85 {
   0% {
